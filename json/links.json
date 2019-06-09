@@ -17,10 +17,4 @@
         "icon": "github-box",
         "url": "https://github.com/Hridai"
 	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	}
 ]
