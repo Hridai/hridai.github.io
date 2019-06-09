@@ -1,21 +1,21 @@
 [
     {
-        "name": "Link",
+        "name": "LinkedIn",
         "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "icon": "linkedin-box",
+        "url": "https://linkedin.com/in/HridaiT"
 	},
     {
-        "name": "Link",
+        "name": "E-mail",
         "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "icon": "at",
+        "url": "mailto:hridaitrivedy@gmail.com"
 	},
     {
-        "name": "Link",
+        "name": "Github",
         "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "icon": "github-box",
+        "url": "https://github.com/Hridai"
 	},
     {
         "name": "Link",
