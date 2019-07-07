@@ -1,9 +1,9 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image3.jpg",
-        "link": "https://google.com"
+        "name": "Filling In PDF Fields With Data Found In a .csv & Saving Copies using PyPDF2 and Pandas",
+        "description": "If you have one pdf template with fillable fields, here's how to fill them all in and saving each as a copy, with data found in a .csv, all the while keeping the fields dynamic and editable!",
+        "image": "images/pypdf2.jpg",
+        "link": "http://hridai.github.io/PyPDF2-Pandas-PDFFieldUpdater"
 	},
     {
         "name": "Project 2",
