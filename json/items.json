@@ -6,10 +6,10 @@
         "link": "http://hridai.github.io/PyPDF2-Pandas-PDFFieldUpdater"
 	},
     {
-        "name": "Installing Keras To Work With GPUs",
-        "description": "How to install the Python Library Keras and to ensure it runs off your GPU. Includes methods to check and test for which GPU Keras sees available for use",
-        "image": "images/keras.jpg",
-        "link": "https://hridai.github.io/Keras-GPU-Install/"
+        "name": "Project2",
+        "description": "Under Construction",
+        "image": "images/image3.jpg",
+        "link": "https://google.com"
 	},
     {
         "name": "Project 3",
