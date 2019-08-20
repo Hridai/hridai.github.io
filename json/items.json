@@ -6,10 +6,10 @@
         "link": "http://hridai.github.io/PyPDF2-Pandas-PDFFieldUpdater"
 	},
     {
-        "name": "Project2",
-        "description": "Under Construction",
-        "image": "images/image3.jpg",
-        "link": "https://google.com"
+        "name": "Football Matchday Summarizer - Built Using Enaml, QTPy",
+        "description": "API Calls to ... [Under Construction]",
+        "image": "images/footieqtenaml.jpg",
+        "link": "https://hridai.github.io/Football_Matchday_Summarizer/"
 	},
     {
         "name": "Project 3",
