@@ -1,7 +1,7 @@
 [
 	{
         "name": "Football Matchday Summarizer - Built Using Enaml, QTPy",
-        "description": "API Calls to ... [Under Construction]",
+        "description": "A desktop application to allow you to check all the pertinent football data from the top 4 European football leagues using the Football-Data.org API!",
         "image": "images/footieqtenaml.jpg",
         "link": "https://hridai.github.io/Football_Matchday_Summarizer/"
 	},
