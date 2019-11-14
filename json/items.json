@@ -1,5 +1,11 @@
 [
 	{
+        "name": "Creating a Self-Driving Car Programmed To Chase My Labrador",
+        "description": "A guide on how to create model car, powered by a Raspberry Pi Model 3B, to take action on visual stimuli. Written fully in Python using libraries: OpenCV|Face_Recognition and many more. Full details inside!",
+        "image": "images/SelfDrivingCarEdited.jpg",
+        "link": "https://github.com/Hridai/Self-Driving-Pi-Car"
+	},
+	{
         "name": "Football Matchday Summarizer - Built Using Enaml, QTPy",
         "description": "A desktop application to allow you to check all the pertinent football data from the top 4 European football leagues using the Football-Data.org API!",
         "image": "images/footieqtenaml.jpg",
@@ -10,11 +16,5 @@
         "description": "If you have one pdf template with fillable fields, here's how to fill them all in and saving each as a copy, with data found in a .csv, all the while keeping the fields dynamic and editable!",
         "image": "images/pypdf2.jpg",
         "link": "http://hridai.github.io/PyPDF2-Pandas-PDFFieldUpdater"
-	},
-    {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image4.jpg",
-        "link": "https://google.com"
-	}   
+	}  
 ]
