@@ -1,5 +1,11 @@
 [
 	{
+        "name": "Automate Outlook Attachments, email bodies & folder moves using Python win32com",
+        "description": "A guide to using the python win32com library to automate the saving of outlook email attachments, email bodies and moving emails programatically to other folders! Working script and details inside!",
+        "image": "images/olautomation.jpg",
+        "link": "https://github.com/Hridai/Self-Driving-Pi-Car"
+	},
+	{
         "name": "Creating a Self-Driving Car Programmed To Chase My Labrador",
         "description": "A guide on how to create model car, powered by a Raspberry Pi Model 3B, to take action on visual stimuli. Written fully in Python using libraries: OpenCV|Face_Recognition and many more. Full details inside!",
         "image": "images/SelfDrivingCarEdited.jpg",
