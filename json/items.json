@@ -1,9 +1,9 @@
 [
 	{
         "name": "Automate Outlook Attachment Saves/Folder Moves using win32com",
-        "description": "Using the Python win32com lib to automate the saving of outlook email attachments, email bodies and moving emails programatically to other folders! Working script and details inside!",
+        "description": "Using the Python win32com library to automate the saving of outlook email attachments, email bodies and moving emails programatically to other folders! Working script and details inside!",
         "image": "images/olautomation.jpg",
-        "link": "https://github.com/Hridai/Self-Driving-Pi-Car"
+        "link": "https://github.com/Hridai/Automating_Outlook"
 	},
 	{
         "name": "Creating a Self-Driving Car Programmed To Chase My Labrador",
