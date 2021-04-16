@@ -1,5 +1,11 @@
 [
 	{
+        "name": "Predicting MMA Fights using Machine Learing",
+        "description": "Predicting the most chaotic sport in the world using ensemble learning. Yes, it is possible!",
+        "image": "images/mmapredo.jpg",
+        "link": "https://mma-predictor.herokuapp.com/"
+	},
+	{
         "name": "Automate Outlook Attachment Saves/Folder Moves using win32com",
         "description": "Using the Python win32com library to automate the saving of outlook email attachments, email bodies and moving emails programatically to other folders! Working script and details inside!",
         "image": "images/olautomation.jpg",
@@ -22,5 +28,5 @@
         "description": "If you have one pdf template with fillable fields, here's how to fill them all in and saving each as a copy, with data found in a .csv, all the while keeping the fields dynamic and editable!",
         "image": "images/pypdf2.jpg",
         "link": "http://hridai.github.io/PyPDF2-Pandas-PDFFieldUpdater"
-	}  
+	}
 ]
