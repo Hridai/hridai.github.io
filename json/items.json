@@ -1,9 +1,9 @@
 [
 	{
-        "name": "Predicting MMA Fights using Machine Learing",
-        "description": "Predicting the most chaotic sport in the world using ensemble learning. Yes, it is possible!",
-        "image": "images/mmapredo.jpg",
-        "link": "https://mma-predictor.herokuapp.com/"
+        "name": "Clio Map — An Interactive Map Through History",
+        "description": "A personal project born from loving history but struggling to hold it all in context — Clio Map lets you pick a point in time and see the world as it was, with countries highlighted on an interactive map and events grouped by theme. Built with Flask, Leaflet.js, and a hand-curated CSV dataset.",
+        "image": "images/cliomap.jpg",
+        "link": "https://www.cliomap.com"
 	},
 	{
         "name": "Automate Outlook Attachment Saves/Folder Moves using win32com",
